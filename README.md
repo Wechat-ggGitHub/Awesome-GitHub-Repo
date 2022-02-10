@@ -12,10 +12,6 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 
 [<img src="https://tva1.sinaimg.cn/large/008i3skNly1gxlhtmg11mj305k05k746.jpg" alt="微信"  width="18px" height="18px" />](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA%3D%3D&chksm=f9a22492ced5ad84397b04927167a3b92841c95fecb7424a9a0f5e91aae24e2c59d681f2ea2d&idx=1&mid=2247497563&scene=21&sn=bbc1d4f23b6fc15d7a14641f746cfe57#wechat_redirect) 表示在公众号发布的项目简介；
 
-<img src="https://tva1.sinaimg.cn/large/008i3skNly1gxs71or9i5j305k05kgll.jpg" alt="微博"  width="18px" height="18px" /> 表示在微博发布的该项目简介；
-
-<img src="https://tva1.sinaimg.cn/large/008i3skNly1gxs72ni1mrj305k05kweg.jpg" alt="知乎"  width="18px" height="18px" /> 表示在知乎发布的项目简介；
-
 ## 目录
 
 - [Awesome GitHub Reo](#awesome-github-repo)
