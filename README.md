@@ -4,7 +4,7 @@
 
 Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目，并将他们进行归类。值得注意的是，不是简单的按照编程语言来分类，而是按照更有趣的分类方式，比如：有趣项目、沙雕项目、实战项目、学习项目、实用工具等等。同时欢迎通过 Pull Request 或者 issues 给我们推荐优秀好玩的开源项目。
 
-[![subscription.png](https://s2.loli.net/2022/02/16/Dm4RiS5qOc9QZrK.png)](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&tempkey=MTE1M191S0E3OEdaWTBTZTEycmxDS2l5dzFELVQtWnlWbXNMRS1XNlFhZTF4SXZCcTB1ZU5lRUFWd2pIVl9tdDl3Qk80S3ZITm5WRFdWWl8tVk1OakpRZjVKUkdqZ0QzWWVjcXJCRndlOGJTa1I3X292S2V4cjgyM0Rjb2VORWREODZEOEdZeWRZYXRxNmIwcGdGcC1YWUJQeGw2bFpQVTJYNHVneWYtdEV3fn4%3D&chksm=f9a2755eced5fc4822404fae1bd71b611fe77419cc8ee8ee52f9bb2cafaf11f0f42cc183876f&token=822393006&lang=zh_CN#rd)
+[![subscription.png](https://s2.loli.net/2022/02/16/Dm4RiS5qOc9QZrK.png)](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247509655&idx=1&sn=a0879e64562cfd2b3114d5cdd09b0b20&chksm=f9a2755eced5fc4822404fae1bd71b611fe77419cc8ee8ee52f9bb2cafaf11f0f42cc183876f&token=822393006&lang=zh_CN#rd)
 
 **说明**
 
