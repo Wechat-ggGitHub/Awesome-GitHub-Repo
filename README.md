@@ -1,6 +1,6 @@
 # Awesome Github REPO
 
-[![](https://img.shields.io/badge/Awesome-GitHub--Repo-9cf.svg)]()
+[![Banner.png](https://s2.loli.net/2022/02/16/XuOFKIMDCEb1U4z.png)](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)
 
 Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目，并将他们进行归类。值得注意的是，不是简单的按照编程语言来分类，而是按照更有趣的分类方式，比如：有趣项目、沙雕项目、实战项目、学习项目、实用工具等等。同时欢迎通过 Pull Request 或者 issues 给我们推荐优秀好玩的开源项目。
 
