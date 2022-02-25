@@ -32,6 +32,7 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
   - [管理系统](#管理系统)
   - [可视化项目](#可视化项目)
   - [低代码项目](#低代码项目)
+  - [人脸识别项目](#人脸识别项目)
 - 开源工具
   - [好用工具](#好用工具)
   - [Docker 工具](#docker工具)
@@ -244,6 +245,13 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 - [amis](https://gitee.com/baidu/amis) - 它通过 JSON 配置就能生成各种后台页面，极大减少开发成本，甚至可以不需要了解前端。[<img src="https://tva1.sinaimg.cn/large/008i3skNly1gxlhtmg11mj305k05k746.jpg" alt="微信"  width="18px" height="18px" />](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247503159&idx=1&sn=3f6b3f79511e13feda4022d0771118c1&chksm=f9a21efeced597e8f38aeae6122da86f89c80171d09df20db9f6881a29dfe602921720be56d5&scene=21#wechat_redirect) 
 - [seezoon-stack](https://gitee.com/huangdf/seezoon-stack) - Seezoon Stack 是一款基于当前最前沿的前端和后台实现的低代码开发平台。前端技术栈基于 Vue3 + Vite + Antdv，后端技术栈基于 Spring boot。[<img src="https://tva1.sinaimg.cn/large/008i3skNly1gxlhtmg11mj305k05k746.jpg" alt="微信"  width="18px" height="18px" />](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247503159&idx=1&sn=3f6b3f79511e13feda4022d0771118c1&chksm=f9a21efeced597e8f38aeae6122da86f89c80171d09df20db9f6881a29dfe602921720be56d5&scene=21#wechat_redirect) 
 
+### 人脸识别项目
+- [openface](https://github.com/cmusatyalab/openface) - OpenFace 作为用于人脸识别的通用库，能够实现瞬态和移动人脸识别。
+- [face_recognition](https://github.com/ageitgey/face_recognition) - Face Recognition 是一个强大、简单、易上手的人脸识别开源项目，并且配备了完整的开发文档和应用案例。
+- [insightface](https://github.com/deepinsight/insightface) - InsightFace 是一个开源的 2D&3D 深度人脸分析工具箱，主要基于 PyTorch 和 MXNet。
+- [facenet](https://github.com/davidsandberg/facenet) - FaceNet 是一个人脸识别系统，可用于判断多幅图是否为同一人、识别图像中的人是谁、人脸聚类计算人脸相似度。
+- [deepface](https://github.com/serengil/deepface) - Deepface 是一个用于 python 的轻量级人脸识别和人脸属性分析（年龄、性别、情感和种族）框架。它是一个混合人脸识别框架，包含最先进的模型：VGG-Face、Google FaceNet、OpenFace、Facebook DeepFace、DeepID、ArcFace 和 Dlib。
+- [CompreFace](https://github.com/exadel-inc/CompreFace) - Exadel CompreFace 是一项免费的开源人脸识别服务，无需事先具备机器学习技能即可轻松集成到任何系统中。CompreFace 提供 REST API 用于人脸识别、人脸验证、人脸检测、地标检测、年龄和性别识别，并且可以通过 docker 轻松部署，并支持在 CPU 和 GPU 上工作的不同模型。
 
 ## 开源工具
 
