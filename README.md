@@ -4,7 +4,9 @@
 
 Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目，并将他们进行归类。值得注意的是，不是简单的按照编程语言来分类，而是按照更有趣的分类方式，比如：有趣项目、沙雕项目、实战项目、学习项目、实用工具等等。同时欢迎通过 Pull Request 或者 issues 给我们推荐优秀好玩的开源项目。
 
-[![subscription.png](https://s2.loli.net/2022/02/16/Dm4RiS5qOc9QZrK.png)](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247509655&idx=1&sn=a0879e64562cfd2b3114d5cdd09b0b20&chksm=f9a2755eced5fc4822404fae1bd71b611fe77419cc8ee8ee52f9bb2cafaf11f0f42cc183876f&token=822393006&lang=zh_CN#rd)
+**欢迎订阅每日推送**
+
+微信公众号：[@逛逛GitHub](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247509655&idx=1&sn=a0879e64562cfd2b3114d5cdd09b0b20&chksm=f9a2755eced5fc4822404fae1bd71b611fe77419cc8ee8ee52f9bb2cafaf11f0f42cc183876f&token=822393006&lang=zh_CN#rd)    新浪微博：[@逛逛GitHub](https://weibo.com/u/7486950118)      知乎：[@逛逛GitHub](https://www.zhihu.com/people/riao-11)
 
 **说明**
 
@@ -88,6 +90,7 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 - [BiliBiliTool](https://github.com/RayWangQvQ/BiliBiliTool) - 描BiliBiliTool 是一个 B 站自动执行任务的工具，帮助我们轻松升级会员到 Lv6 。[<img src="https://tva1.sinaimg.cn/large/008i3skNly1gxlhtmg11mj305k05k746.jpg" alt="微信"  width="18px" height="18px" />](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA%3D%3D&chksm=f9a1c1a9ced648bfcb12a66c874666de0bc020434bbd8e8b0e9f730546ca1a2471d0e1eafacc&idx=1&mid=2247488096&scene=21&sn=efb7daccf9d472ed890839c87b79848e#wechat_redirect)
 - [ChineseBQB](https://github.com/zhaoolee/ChineseBQB) - 是一个表情包博物馆，中国表情包大集合，堪称 GitHub 最有毒的仓库。[<img src="https://tva1.sinaimg.cn/large/008i3skNly1gxlhtmg11mj305k05k746.jpg" alt="微信"  width="18px" height="18px" />](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247498844&idx=2&sn=488bf3391a9b7a260099b8d7e9e6bf7a&chksm=f9a22f95ced5a683bc20dd13603de2b6b169b72b8dca47bd100cbb45c354b46e82343797f5ad&token=1761720145&lang=zh_CN#rd)
 - [sorry](https://github.com/xtyxtyx/sorry) - 表情包生成器，能够生成类似于下方这样的 GIF 表情包。[<img src="https://tva1.sinaimg.cn/large/008i3skNly1gxlhtmg11mj305k05k746.jpg" alt="微信"  width="18px" height="18px" />](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247498844&idx=2&sn=488bf3391a9b7a260099b8d7e9e6bf7a&chksm=f9a22f95ced5a683bc20dd13603de2b6b169b72b8dca47bd100cbb45c354b46e82343797f5ad&token=1761720145&lang=zh_CN#rd)
+- [qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件，针对部分人群输入英语时「提笔忘字」的现象，开源了这个软件。
 
 ### 摸鱼神器
 
@@ -105,6 +108,7 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 - [vscode-plugin-swimming](https://github.com/zy445566/vscode-plugin-swimming) - 写完代码之后可以重新把代码写一遍，摸鱼神器。[<img src="https://tva1.sinaimg.cn/large/008i3skNly1gxlhtmg11mj305k05k746.jpg" alt="微信"  width="18px" height="18px" />](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247501135&idx=1&sn=a1c6bc746fa01dddb143971d2bcd3f90&chksm=f9a21686ced59f901f0f628574360b31779d48ad6689656996272e2f0ff1d2651ce84c696416&token=1761720145&lang=zh_CN#rd)
 - [intellij-media-player](https://github.com/wuyr/intellij-media-player) - 在编辑器里看电影，尝试过没？[<img src="https://tva1.sinaimg.cn/large/008i3skNly1gxlhtmg11mj305k05k746.jpg" alt="微信"  width="18px" height="18px" />](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247501135&idx=1&sn=a1c6bc746fa01dddb143971d2bcd3f90&chksm=f9a21686ced59f901f0f628574360b31779d48ad6689656996272e2f0ff1d2651ce84c696416&token=1761720145&lang=zh_CN#rd)
 - [BossSensor](https://github.com/Hironsan/BossSensor) - 终极摸鱼神器：通过AI人脸识别，老板来了就切换桌面。[<img src="https://tva1.sinaimg.cn/large/008i3skNly1gxlhtmg11mj305k05k746.jpg" alt="微信"  width="18px" height="18px" />](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247501135&idx=1&sn=a1c6bc746fa01dddb143971d2bcd3f90&chksm=f9a21686ced59f901f0f628574360b31779d48ad6689656996272e2f0ff1d2651ce84c696416&token=1761720145&lang=zh_CN#rd)
+- [zhihuhelp](https://github.com/YaoZeyuan/zhihuhelp) - 项目基于知乎现有接口+TypeScript 构建，为知友提供方便的,以供自己阅读/自身结集整理为目的的将知乎内容转为 Epub 电子书的途径。
 
 ### 宝藏项目
 
@@ -119,7 +123,8 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 - [app-ideas](https://github.com/florinpop17/app-ideas) - 一个项目列表，该列表会根据开发者的水平提供一些练手项目，帮助你提升编程技巧。[<img src="https://tva1.sinaimg.cn/large/008i3skNly1gxlhtmg11mj305k05k746.jpg" alt="微信"  width="18px" height="18px" />](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA%3D%3D&chksm=f9a224eaced5adfcbf3ba0a1ded31d9dd11ed8b4d412d973ea40c1585a329cf10d6d38fc9d86&idx=1&mid=2247497507&scene=21&sn=70cde880b15a8ba1323223d50069a6cb#wechat_redirect)
 - [Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 该项目收集了世界上知名网站的源码，包括：谷歌、Youtube、IMDB等等。[<img src="https://tva1.sinaimg.cn/large/008i3skNly1gxlhtmg11mj305k05k746.jpg" alt="微信"  width="18px" height="18px" />]()
 - [idCardCv](https://gitee.com/endlesshh/idCardCv) - Java 身份证号码识别系统。[<img src="https://tva1.sinaimg.cn/large/008i3skNly1gxlhtmg11mj305k05k746.jpg" alt="微信"  width="18px" height="18px" />](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA%3D%3D&chksm=f9a1dba0ced652b683dbea88fa026232ccc0d3a1d1326f25fdb9574386d23a3259b647d308b7&idx=1&mid=2247485545&scene=21&sn=1e54691f815f1d1d4dde905613a82ad2#wechat_redirect)
-- [vnpy](https://github.com/vnpy/vnpy)VeighNa 是一套基于 Python 的开源量化交易系统开发框架，在开源社区持续不断的贡献下一步步成长为多功能量化交易平台，自发布以来已经积累了众多来自金融机构或相关领域的用户，包括私募基金、证券公司、期货公司等。
+- [vnpy](https://github.com/vnpy/vnpy) - VeighNa 是一套基于 Python 的开源量化交易系统开发框架，在开源社区持续不断的贡献下一步步成长为多功能量化交易平台，自发布以来已经积累了众多来自金融机构或相关领域的用户，包括私募基金、证券公司、期货公司等。
+- [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - 一个脚本用来删除 Windows 预安装的不必要的应用程序。
 
 ### 开源游戏
 
@@ -288,7 +293,9 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 - GitZip - 该 Chrome 插件能帮助你轻松下载一个仓库中的部分代码。[<img src="https://tva1.sinaimg.cn/large/008i3skNly1gxlhtmg11mj305k05k746.jpg" alt="微信"  width="18px" height="18px" />](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA%3D%3D&chksm=f9a238b5ced5b1a30478c0ce0be21c986e30ab3a2f6f605dac0d46ada4d62a92257dd358d707&idx=1&mid=2247494524&scene=21&sn=0b17b90fb3e36ed842c1a0ed8e50c399#wechat_redirect)
 - [java_opencv](https://gitee.com/songer/java_opencv) - 基于 Java 的答题卡识别系统。[<img src="https://tva1.sinaimg.cn/large/008i3skNly1gxlhtmg11mj305k05k746.jpg" alt="微信"  width="18px" height="18px" />](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA%3D%3D&chksm=f9a238b5ced5b1a30478c0ce0be21c986e30ab3a2f6f605dac0d46ada4d62a92257dd358d707&idx=1&mid=2247494524&scene=21&sn=0b17b90fb3e36ed842c1a0ed8e50c399#wechat_redirect)
 - [sqliteviz](www.github.com/lana-k/sqliteviz) - Sqliteviz 是一个轻量级 SQLite 可视化工具。 包含功能如下： 针对 SQLite 数据库运行 SQL 查询并根据结果集创建 Plotly 图表和数据透视表，将 CSV 文件导入 SQLite 数据库并可视化导入的数据，将结果集导出到 CSV 文件，管理查询并针对不同的数据库运行它们等等。
-- [hackingtool](https://github.com/Z4nzu/hackingtool)黑客的多合一黑客工具，包括很多黑客攻击的脚本和工具，比如匿名隐藏工具、SQL 注入工具等等。
+- [hackingtool](https://github.com/Z4nzu/hackingtool) - 黑客的多合一黑客工具，包括很多黑客攻击的脚本和工具，比如匿名隐藏工具、SQL 注入工具等等。
+- [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - Reactive Resume 是一个免费和开源的简历生成器，旨在简单的创建、更新和共享简历。
+- [databasir](https://github.com/vran-dev/databasir) - Databasir 是面向团队的关系型数据库模型文档管理平台，旨在通过自动化的方式解决模型文档管理过程中维护成本高、内容更新不及时以及团队协作复杂等问题。
 
 ### Docker工具
 
