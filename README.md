@@ -487,7 +487,6 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 - [kbone](https://github.com/Tencent/kbone) - kbone 实现了一个适配器，在适配层里模拟出了浏览器环境，让 Web 端的代码可以不做什么改动便可运行在小程序里。[<img src="https://tva1.sinaimg.cn/large/008i3skNly1gxlhtmg11mj305k05k746.jpg" alt="微信"  width="18px" height="18px" />]()
 - [TencentOS-tiny](https://github.com/Tencent/TencentOS-tiny) - 腾讯面向物联网领域开发的实时操作系统，具有低功耗、低资源占用、模块化、安全可靠等优点，可有效提升物联网终端产品开发效率。[<img src="https://tva1.sinaimg.cn/large/008i3skNly1gxlhtmg11mj305k05k746.jpg" alt="微信"  width="18px" height="18px" />]()
 - [Hippy](https://github.com/Tencent/Hippy) - Hippy 是一个跨端开发框架，开发者只写一套代码就直接运行于三个平台（iOS、Android 和 Web）。[<img src="https://tva1.sinaimg.cn/large/008i3skNly1gxlhtmg11mj305k05k746.jpg" alt="微信"  width="18px" height="18px" />]()
-- [kbone](https://github.com/Tencent/kbone) - kbone 实现了一个适配器，在适配层里模拟出了浏览器环境，让 Web 端的代码可以不做什么改动便可运行在小程序里。[<img src="https://tva1.sinaimg.cn/large/008i3skNly1gxlhtmg11mj305k05k746.jpg" alt="微信"  width="18px" height="18px" />]()
 - [secguides](www.github.com/Tencent/secguide) - 面向开发人员梳理的代码安全指南，旨在梳理 API 层面的风险点并提供详实可行的安全编码方案。
 
 ### 阿里开源
