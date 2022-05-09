@@ -260,6 +260,9 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 - [deepface](https://github.com/serengil/deepface) - Deepface 是一个用于 python 的轻量级人脸识别和人脸属性分析（年龄、性别、情感和种族）框架。它是一个混合人脸识别框架，包含最先进的模型：VGG-Face、Google FaceNet、OpenFace、Facebook DeepFace、DeepID、ArcFace 和 Dlib。
 - [CompreFace](https://github.com/exadel-inc/CompreFace) - Exadel CompreFace 是一项免费的开源人脸识别服务，无需事先具备机器学习技能即可轻松集成到任何系统中。CompreFace 提供 REST API 用于人脸识别、人脸验证、人脸检测、地标检测、年龄和性别识别，并且可以通过 docker 轻松部署，并支持在 CPU 和 GPU 上工作的不同模型。
 
+### 商用项目
+- [TradingSystem](https://github.com/oybab/TradingSystem) - 梦胜交易系统 一个多语言跨平台开源交易系统, 支持个人交易管理, 餐厅, 小店, 超市 酒店....等各个领域, 也可以支持二次开发并配合你目前的生意的管理和扩展, 统计报表。
+
 ## 开源工具
 
 ### 好用工具
