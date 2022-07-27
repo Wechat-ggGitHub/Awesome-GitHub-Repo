@@ -481,6 +481,7 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 
 ### 腾讯开源
 
+- [spring-cloud-tencent](https://github.com/Tencent/spring-cloud-tencent) - Spring Cloud Tencent 是腾讯开源的一站式微服务解决方案。[<img src="https://tva1.sinaimg.cn/large/008i3skNly1gxlhtmg11mj305k05k746.jpg" alt="微信"  width="18px" height="18px" />]()
 - [APIJSON](https://github.com/Tencent/APIJSON) - APIJSON 是一种专为 API 而生的 JSON 网络传输协议以及基于这套协议实现的 ORM 库。[<img src="https://tva1.sinaimg.cn/large/008i3skNly1gxlhtmg11mj305k05k746.jpg" alt="微信"  width="18px" height="18px" />]()
 - [wepy](https://github.com/Tencent/wepy) - WePY 是一款让小程序支持组件化开发的框架，类似于 Vue 开发风格，它可以很方便的让开发者选择自己喜欢的开发风格去开发小程序。[<img src="https://tva1.sinaimg.cn/large/008i3skNly1gxlhtmg11mj305k05k746.jpg" alt="微信"  width="18px" height="18px" />]()
 - [Tendis](https://github.com/Tencent/Tendis) - 腾讯互娱 CROS DBA 团队和腾讯云数据库团队自主设计和研发的开源分布式高性能 KV 存储，推出了 Tendis。[<img src="https://tva1.sinaimg.cn/large/008i3skNly1gxlhtmg11mj305k05k746.jpg" alt="微信"  width="18px" height="18px" />]()
