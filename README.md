@@ -532,4 +532,4 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 
 ### 字节开源
 
-- [semi-design](www.github.com/DouyinFE/semi-design) - 抖音企业级应用 UI 解决方案 Semi Design，由字节跳动抖音前端与 UED 团队设计、开发并维护，是一款包含设计语言、React 组件、主题等开箱即用的中后台解决方案，可用于快速搭建美观的 React 应用。
+- [semi-design](https://github.com/DouyinFE/semi-design) - 抖音企业级应用 UI 解决方案 Semi Design，由字节跳动抖音前端与 UED 团队设计、开发并维护，是一款包含设计语言、React 组件、主题等开箱即用的中后台解决方案，可用于快速搭建美观的 React 应用。
