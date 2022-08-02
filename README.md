@@ -54,6 +54,7 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
   - [百度开源](#百度开源)
   - [腾讯开源](#腾讯开源)
   - [阿里开源](#阿里开源)
+  - [字节开源](#字节开源)
   
 - [License](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md#license)
 
@@ -533,3 +534,4 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 ### 字节开源
 
 - [semi-design](www.github.com/DouyinFE/semi-design) - 抖音企业级应用 UI 解决方案 Semi Design，由字节跳动抖音前端与 UED 团队设计、开发并维护，是一款包含设计语言、React 组件、主题等开箱即用的中后台解决方案，可用于快速搭建美观的 React 应用。
+- [CloudWeGo](https://github.com/cloudwego) - CloudWeGo 是一套由字节跳动开源的、可快速构建企业级云原生微服务架构的中间件集合。CloudWeGo 项目共同的特点是高性能、高扩展性、高可靠，专注于微服务通信与治理。
