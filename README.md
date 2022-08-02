@@ -54,6 +54,7 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
   - [百度开源](#百度开源)
   - [腾讯开源](#腾讯开源)
   - [阿里开源](#阿里开源)
+  - [字节开源](#字节开源)
   
 - [License](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md#license)
 
