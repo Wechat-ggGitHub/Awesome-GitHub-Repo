@@ -54,7 +54,8 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
   - [百度开源](#百度开源)
   - [腾讯开源](#腾讯开源)
   - [阿里开源](#阿里开源)
-  
+  - [小米开源](#小米开源)
+
 - [License](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md#license)
 
 ## 好玩项目
@@ -533,3 +534,7 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 ### 字节开源
 
 - [semi-design](www.github.com/DouyinFE/semi-design) - 抖音企业级应用 UI 解决方案 Semi Design，由字节跳动抖音前端与 UED 团队设计、开发并维护，是一款包含设计语言、React 组件、主题等开箱即用的中后台解决方案，可用于快速搭建美观的 React 应用。
+
+### 小米开源
+
+- [hiui-design](https://github.com/XiaoMi/hiui) - HiUI Design 是基于小米中后台业务沉淀的一套企业级前端设计解决方案。可以帮助开发人员快速搭建交互一致、界面美观的 React 应用。
