@@ -346,6 +346,7 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 - [Learn-Vim](https://github.com/iggredible/Learn-Vim) - 用聪明的方式学习 Vim 。[<img src="https://tva1.sinaimg.cn/large/008i3skNly1gxlhtmg11mj305k05k746.jpg" alt="微信"  width="18px" height="18px" />](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA%3D%3D&chksm=f9a1d579ced65c6f8da85f71bc62947a1ab06e4f6a82f73cef09f57e6cffa146e501aabd622b&idx=1&mid=2247485104&scene=21&sn=1be7739aed86a99c0441c121d7105f8a#wechat_redirect)
 - [autocomplete](https://github.com/withfig/autocomplete)当在终端键入命令时，这个开源项目会在现有的 macOS 终端中弹出子命令、选项和上下文相关的参数，帮你快速完成当前命令的输入。
 - [btop](https://github.com/aristocratos/btop) - 一款炫酷的性能测试监控分析工具。
+- [ranger](https://github.com/ranger/ranger) - **一个精简的文件管理器**，它不仅可以让你浏览文件，还可以预览它们。
 
 ### 效率工具
 
