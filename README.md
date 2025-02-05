@@ -40,6 +40,7 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
   - [Docker 工具](#docker工具)
   - [命令行工具](#命令行工具)
   - [效率工具](#效率工具)
+  - [OCR神器](#OCR神器)
   
 - 学习项目
   - [学习项目](#学习项目)
@@ -358,6 +359,10 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 - [towxml](www.github.com/sbfkcel/towxml) - Towxml  是一个可将 HTML 、 Markdown 转为微信小程序 WXML (WeiXin Markup Language)的渲染库。 用于解决在微信小程序中 Markdown 、 HTML 不能直接渲染的问题。
 - [JustAuth](www.github.com/justauth/JustAuth) - 一个超级全的第三方登录开源组件。该项目已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ等第三方平台的授权登录。
 - [gopay](www.github.com/go-pay/gopay) - 本项目是微信、支付宝、PayPal、QQ 的 Golang 版本SDK。
+
+### OCR神器
+
+- [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - 精准识别图片型扫描件中的文字，为图像 PDF 嵌入可检索的文本层直接。[<img src="https://tva1.sinaimg.cn/large/008i3skNly1gxlhtmg11mj305k05k746.jpg" alt="微信"  width="18px" height="18px" />](https://mp.weixin.qq.com/s/brdWrH2uOIAEIj_wt3GnIA)
 
 ## 学习资源
 
