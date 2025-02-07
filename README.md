@@ -126,6 +126,7 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 - [idCardCv](https://gitee.com/endlesshh/idCardCv) - Java 身份证号码识别系统。[<img src="https://tva1.sinaimg.cn/large/008i3skNly1gxlhtmg11mj305k05k746.jpg" alt="微信"  width="18px" height="18px" />](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA%3D%3D&chksm=f9a1dba0ced652b683dbea88fa026232ccc0d3a1d1326f25fdb9574386d23a3259b647d308b7&idx=1&mid=2247485545&scene=21&sn=1e54691f815f1d1d4dde905613a82ad2#wechat_redirect)
 - [vnpy](https://github.com/vnpy/vnpy) - VeighNa 是一套基于 Python 的开源量化交易系统开发框架，在开源社区持续不断的贡献下一步步成长为多功能量化交易平台，自发布以来已经积累了众多来自金融机构或相关领域的用户，包括私募基金、证券公司、期货公司等。
 - [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - 一个脚本用来删除 Windows 预安装的不必要的应用程序。
+- [FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜，接收方无需注册登录，输入口令即可提取文件。[<img src="https://tva1.sinaimg.cn/large/008i3skNly1gxlhtmg11mj305k05k746.jpg" alt="微信"  width="18px" height="18px" />](https://mp.weixin.qq.com/s/rFzDGSIrd3t1ABwgtmqRKA) 
 
 ### 开源游戏
 
