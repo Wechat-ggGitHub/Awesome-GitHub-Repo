@@ -298,6 +298,7 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 - [hackingtool](https://github.com/Z4nzu/hackingtool) - 黑客的多合一黑客工具，包括很多黑客攻击的脚本和工具，比如匿名隐藏工具、SQL 注入工具等等。
 - [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - Reactive Resume 是一个免费和开源的简历生成器，旨在简单的创建、更新和共享简历。
 - [databasir](https://github.com/vran-dev/databasir) - Databasir 是面向团队的关系型数据库模型文档管理平台，旨在通过自动化的方式解决模型文档管理过程中维护成本高、内容更新不及时以及团队协作复杂等问题。
+- [MemFree](https://github.com/memfreeme/memfree) - MemFree 是一个开源的 Hybrid AI 搜索引擎，可以同时对您的个人知识库（如书签、笔记、文档等）和互联网进行搜索, 为你提供最佳答案。
 
 ### Docker工具
 
