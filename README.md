@@ -349,6 +349,7 @@ AI Agent 框架、平台、工具与服务。
 ### AI Agent
 
 - [Claude-Flow](https://github.com/ruvnet/claude-flow) - 专为 Claude 生态打造的 Agent 编排平台，支持部署智能多 Agent 群、协调自主工作流、构建对话式 AI 系统，可与企业级架构和 RAG 集成，原生支持 Claude Code / Codex。
+  - [Agency-Agents](https://github.com/msitarzewski/agency-agents) - 55个专业AI角色组成的虚拟公司，包含工程师、设计师、市场等9个部门的结构化Prompt文件，可集成Claude Code作为通用Prompt模板使用。
 
 ### AI 工具
 
