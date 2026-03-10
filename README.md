@@ -353,6 +353,7 @@ AI Agent 框架、平台、工具与服务。
 
 ### AI 工具
 
+- [AiToEarn](https://github.com/yikart/AiToEarn) - 基于 AI 驱动的全平台社交媒体管理与内容分发工具，支持抖音、小红书、B站、TikTok、YouTube 等多平台一键发布，具备 AI 内容生成、内容日历管理、数据分析与趋势挖掘等功能。
 - [CodexBar](https://github.com/steipete/CodexBar) - macOS 菜单栏小工具，监控 OpenAI Codex、Claude Code、Gemini、Copilot 等 AI 服务的使用量，随时查看配额剩余和重置时间。
 - [claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - 开源的 Claude Code 镜像服务，解决地区限制问题，支持自建服务直连 Anthropic API，数据安全可控。
 
