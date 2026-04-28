@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/wechat-gggithub-awesome-github-repo-badge.png)](https://mseep.ai/app/wechat-gggithub-awesome-github-repo)
+
 # Awesome Github REPO
 
 [![Banner.png](https://s2.loli.net/2022/02/16/XuOFKIMDCEb1U4z.png)](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)
