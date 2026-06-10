@@ -169,6 +169,7 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 - [3DCellForge](https://github.com/huangserva/3DCellForge) - AI 驱动的交互式 3D 模型生成、检查和展示工作室。
 - [financial-services](https://github.com/anthropics/financial-services) - Anthropic 官方金融 AI 落地方案。
 - [MiniCPM-V-Apps](https://github.com/OpenBMB/MiniCPM-V-Apps) - 面壁智能 1.3B 参数多模态模型，所有手机都能跑，智能密度极高。
+- [Cate](https://github.com/0-AI-UG/cate) - 开源的无限画布桌面 IDE，把 Monaco 编辑器、xterm 终端、内嵌浏览器和 Claude Code 等 AI Agent 面板摆放在一块可无限缩放的空间画布上，面板可浮动、停靠或拆成独立窗口，布局按项目自动保存，基于 Electron，支持 macOS / Windows / Linux。
 
 ## 信息获取
 
