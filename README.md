@@ -113,6 +113,7 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 - [marketingskills](https://github.com/coreyhaines31/marketingskills) - 专为营销同学准备的 Skill 包，包含 26 个营销相关 Skill 覆盖转化率优化、文案写作、SEO、数据分析、增长黑客等领域，如 page-cro、copywriting、seo-audit、programmatic-seo、paid-ads 等。
 - [NanoBanana-PPT-Skills](https://github.com/op7418/NanoBanana-PPT-Skills) - AI 自动生成 PPT 的 Skill，智能分析文档提取核心要点规划 PPT 结构，用 Google Nano Banana Pro 模型生成高质量图片支持 2K/4K 分辨率，还能用可灵 AI 自动生成转场视频，内置渐变毛玻璃和矢量插画两种风格。
 - [baoyu-skills](https://github.com/JimLiu/baoyu-skills) - 宝玉老师开源的自媒体内容创作 Skills 全家桶，包含 xhs-images 小红书信息图、infographic 专业信息图、cover-image 文章封面图、slide-deck 幻灯片、comic 知识漫画、post-to-wechat 微信发布、post-to-x Twitter 发布等多个实用 Skill。
+- [md2wechat](https://github.com/geekjourneyx/md2wechat-skill) - 面向 AI Agent 的微信公众号发布 CLI，支持 Markdown 转微信 HTML、40 个专业主题、43 个结构化排版模块、AI 配图、图片上传和一键推送草稿箱，适配 Claude Code、Codex、OpenClaw 等自动化写作发布流程。
 - [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - Claude Skills 大合集已有 34.9k Star，特别擅长文档处理：PDF 提取文本表格元数据合并加注释、Word 追踪修改添加评论格式化、Excel 写公式生成图表数据转换、PPT 读取生成调整布局模板等，装上后 Claude 就能按标准化方式处理各种文档。
 - [pua](https://github.com/tanweai/pua) - 用大厂 PUA 话术驱动 AI 的 Claude Code 技能插件，让 AI 不敢放弃、主动出击，实测调试持久力 +36%、主动能动性 +50%。
 - [PUAClaw](https://github.com/puaclaw/PUAClaw) - AI 提示词说服工程框架，96 项 PUA 技术分类体系，龙虾评级系统（🦞 到 🦞🦞🦞🦞🦞），经 147 只龙虾亲身验证的学术娱乐项目。
