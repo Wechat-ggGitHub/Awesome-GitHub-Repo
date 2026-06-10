@@ -98,6 +98,7 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 - [Web Agent](https://github.com/firecrawl/web-agent) - Firecrawl 开源的 Web Agent 框架，搜索+爬取+浏览器交互+结构化输出一条龙。
 - [Rowboat](https://github.com/rowboatlabs/rowboat) - 带记忆的开源 AI 协作平台。
 - [Ruflo](https://github.com/ruvnet/ruflo) - Claude Agent 编排平台。
+- [Future AGI](https://github.com/future-agi/future-agi) - 开源的端到端 AI Agent 工程化与优化平台，统一追踪、评估、模拟、数据集、网关与防护栏到一个反馈循环，可自托管，帮助团队构建自我改进的 AI Agent。
 
 ### AI Skills
 
