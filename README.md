@@ -65,6 +65,7 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 ### AI Agent
 
 - [Lumi](https://github.com/Wechat-ggGitHub/Lumi) - 住在你 macOS 菜单栏的语音 AI 助手，语音优先交互，随时唤醒。
+- [Orkas](https://github.com/Orkas-AI/Orkas) - 本地优先的开源桌面多 Agent 工作台，由 Commander 拆解目标并协调拥有独立技能、记忆和上下文的专职 Agent 并行或串行执行，支持接入 Claude Code、Codex、OpenCode 和 Cline。([官网](https://orkas.ai?source=github_awesome_github_repo))
 - [Claude-Flow](https://github.com/ruvnet/claude-flow) - 专为 Claude 生态打造的 Agent 编排平台，支持部署智能多 Agent 群、协调自主工作流、构建对话式 AI 系统，可与企业级架构和 RAG 集成，原生支持 Claude Code / Codex。
 - [Agency-Agents](https://github.com/msitarzewski/agency-agents) - 55个专业AI角色组成的虚拟公司，包含工程师、设计师、市场等9个部门的结构化Prompt文件，可集成Claude Code作为通用Prompt模板使用。
 - [Open Interpreter](https://github.com/openinterpreter/open-interpreter) - 自然语言计算机界面，让大语言模型在本地直接运行代码、操作文件系统、执行命令，支持多种编程语言，可实现复杂任务的自动化执行。
