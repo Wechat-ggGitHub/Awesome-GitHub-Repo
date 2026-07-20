@@ -150,6 +150,7 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 - [html-anything](https://github.com/nexu-io/html-anything) - AI Agent 帮你写 HTML 的工具，75 套模板 9 种输出格式，零 API Key 一键生成。
 - [cc-design](https://github.com/ZeroZ-lab/cc-design) - Claude Code 设计工具。
 - [cc-switch](https://github.com/farion1231/cc-switch) - 一键切换 AI 渠道。
+- [Alex](https://github.com/madhavajay/alex) - 带可选 UI 的本地 Rust LLM 代理，可将 Claude Code、Codex、Pi 等编码 Agent 路由到多个模型提供商，支持本地链路追踪、可脚本化中间件、多订阅聚合、故障转移，以及通过即时通讯完成重新认证。
 - [deepclaude](https://github.com/aattaran/deepclaude) - Claude Code 接入 DeepSeek 后端。
 - [Mirage](https://github.com/strukto-ai/mirage) - AI Agent 统一虚拟文件系统，ls 一下操作 S3 和 Slack。
 - [Modly](https://github.com/lightningpixel/modly) - 图片转 3D 模型工具。
