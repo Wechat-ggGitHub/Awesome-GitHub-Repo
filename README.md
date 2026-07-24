@@ -553,6 +553,7 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 - [JustAuth](www.github.com/justauth/JustAuth) - 一个超级全的第三方登录开源组件。该项目已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ等第三方平台的授权登录。
 - [gopay](www.github.com/go-pay/gopay) - 本项目是微信、支付宝、PayPal、QQ 的 Golang 版本SDK。
 - [gocron](https://github.com/gocronx-team/gocron) - Go 语言开发的轻量级分布式定时任务管理系统，支持 Web 界面管理、crontab 精确到秒、任务失败重试、多用户权限控制和多数据库支持。
+- [薪跳 PayDance](https://github.com/MrBaoboer/PayDance) - 轻量优雅的「实时工资」小软件，根据用户的薪资和上下班时间动态计算每一秒的收入增长，让劳动时间价值变得可视化
 
 ### OCR神器
 
