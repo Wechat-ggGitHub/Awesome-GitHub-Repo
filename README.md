@@ -87,6 +87,7 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 - [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - 开源的自主AI Agent框架，提供图形界面管理和监控Agent，支持工具扩展和知识库集成。
 - [Letta](https://github.com/letta-ai/letta) - 前身为MemGPT，专注于Agent长期记忆管理的框架，支持无限上下文、自编辑记忆和分层记忆系统。
 - [Context Hub](https://github.com/andrewyng/context-hub) - 吴恩达推出的开源工具，让 AI 编程 Agent 用上最新的 API 文档，解决「API 幻觉」问题。支持 CLI 方式按需拉取文档、批注反馈，文档越用越精准。
+- [flameox](https://github.com/morluto/flameox) - 面向智能体的性能分析与优化工具包，协调 PyTorch Profiler、Nsight Systems 等工具，保留原生运行时证据并比较实验，帮助定位应用、原生服务、GPU 内核和推理负载的瓶颈。
 - [Agent Reach](https://github.com/Panniantong/Agent-Reach) - 给 AI Agent 一键装上互联网能力，支持 Twitter、YouTube、Reddit、B站、小红书等 9+ 平台，一条 CLI 命令搞定所有平台配置，兼容 Claude Code、OpenClaw、Cursor 等。
 - [Sage](https://github.com/ZHangZHengEric/Sage) - 基于 LLM 和 MCP 的流程自动编排多智能体系统，支持智能任务分解、插件式工具扩展、深度研究和快速执行双模式，提供 React + FastAPI 可视化界面。
 - [OpeniLink Hub](https://github.com/openilink/openilink-hub) - 基于微信 iLink 协议的开源消息管理平台，支持接入 DeepSeek/GPT/Claude 自动回复，应用市场一键装功能，微信消息桥接到飞书/Slack/Telegram。
