@@ -64,6 +64,7 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 
 ### AI Agent
 
+- [BitFun](https://github.com/GCWing/BitFun) - Rust 编写的开源桌面 AI Agent 工作台，面向真实代码仓库，集成终端、浏览器和远程工作区，支持 DeepSeek / Claude / GLM / Kimi 等模型，并能通过 Agent、MCP、Skills、Hooks 和 Mini Apps 分层扩展。
 - [Lumi](https://github.com/Wechat-ggGitHub/Lumi) - 住在你 macOS 菜单栏的语音 AI 助手，语音优先交互，随时唤醒。
 - [Claude-Flow](https://github.com/ruvnet/claude-flow) - 专为 Claude 生态打造的 Agent 编排平台，支持部署智能多 Agent 群、协调自主工作流、构建对话式 AI 系统，可与企业级架构和 RAG 集成，原生支持 Claude Code / Codex。
 - [Agency-Agents](https://github.com/msitarzewski/agency-agents) - 55个专业AI角色组成的虚拟公司，包含工程师、设计师、市场等9个部门的结构化Prompt文件，可集成Claude Code作为通用Prompt模板使用。
