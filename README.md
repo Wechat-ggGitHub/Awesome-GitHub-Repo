@@ -201,6 +201,7 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 - [auto-news](https://github.com/finaldie/auto-news) - 个人新闻聚合器，从 Tweets / RSS / YouTube / Web 文章 / Reddit 等多源拉取，通过 ChatGPT / Gemini / Ollama+LangChain 做总结、过滤和每周回顾。
 - [newshub](https://github.com/Varshithvhegde/newshub) - AI 驱动的新闻聚合与摘要平台，React + TypeScript + Node.js + Redis，使用 Google Gemini 和向量搜索做语义检索与个性化推荐。
 - [Horizon](https://github.com/Thysrael/Horizon) - 私人 AI 新闻雷达，自动生成每日简报。
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 
 ### 爬虫与抓取框架
 
@@ -279,7 +280,6 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 ### 宝藏项目
 
 - [HistSumm](https://github.com/Pzoom522/HistSumm) - 明朝版的今日头条，你见过吗？。
-- [preserve-cd](https://github.com/skywind3000/preserve-cd) - 绝版游戏保护计划：把一些经典小游戏刻录永久保存。
 - [wifi-password](https://github.com/rauchg/wifi-password) - 用这个工具可以快速获取你当前连接 WIFI 的密码。
 - [coder2gwy](https://github.com/coder2gwy/coder2gwy) - 一份程序员考公指南冲上热榜，几天时间不到，被标星7.3k。
 - [955.WLB](github.com/formulahendry/955.WLB) - 955 不加班的公司名单，我看了看，加上个人了解，信息还算准确，但大多都是外企。
@@ -305,7 +305,6 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 
 - [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - 国外大神复刻了暗黑破坏神2。
 - [PlantsVsZombies](https://github.com/marblexu/PythonPlantsVsZombies) - 开源的《植物大战僵尸》。
-- [preserve-cd](https://github.com/skywind3000/preserve-cd) - 绝版游戏保护计划：把一些经典小游戏刻录永久保存。
 - [watermelon](https://github.com/tangxiangmin/cocos-big-watermelon) - 前段时间大火的游戏合成大西瓜，有人复现了。
 - [OpenEmu](https://github.com/OpenEmu/OpenEmu) - macOS 平台最优秀的多系统游戏模拟器，支持 GameBoy、NES、SNES、N64、PS1 等数十种经典游戏机，界面精美操作简单，是复古游戏玩家的首选。
 - [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - 经典模拟经营游戏《过山车大亨2》的开源重制版，修复原版 Bug、增加新功能、支持多平台和 MOD 扩展，让经典焕发新生。
