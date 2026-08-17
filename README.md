@@ -193,6 +193,7 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 - [BestBlogs](https://github.com/ginobefun/BestBlogs) - 汇集顶级编程、AI、产品、科技文章，使用大语言模型摘要评分辅助阅读，基于 Dify Workflow 构建，支持 200+ RSS 订阅源。
 - [Mimir](https://github.com/cctv2206/mimir-opensource) - AI 驱动的信息聚合与分发系统，支持 Twitter 实时监控、RSS 订阅、网页抓取、市场数据等，通过 Telegram / 飞书 / Webhook 分发。
 - [TrendRadar](https://github.com/sansan0/TrendRadar) - 多平台热点聚合 + RSS 订阅 + 关键词筛选的 AI 舆情与趋势监控系统，支持多渠道推送（微信/飞书/钉钉/Telegram/邮件等），支持 MCP 对话接入。
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - 独立的 X (Twitter) 数据 API，用于搜索、粉丝导出、监控和 MCP。
 
 ### AI 新闻聚合
 
@@ -201,7 +202,6 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 - [auto-news](https://github.com/finaldie/auto-news) - 个人新闻聚合器，从 Tweets / RSS / YouTube / Web 文章 / Reddit 等多源拉取，通过 ChatGPT / Gemini / Ollama+LangChain 做总结、过滤和每周回顾。
 - [newshub](https://github.com/Varshithvhegde/newshub) - AI 驱动的新闻聚合与摘要平台，React + TypeScript + Node.js + Redis，使用 Google Gemini 和向量搜索做语义检索与个性化推荐。
 - [Horizon](https://github.com/Thysrael/Horizon) - 私人 AI 新闻雷达，自动生成每日简报。
-- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 
 ### 爬虫与抓取框架
 
