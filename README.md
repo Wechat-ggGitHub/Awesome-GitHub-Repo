@@ -193,6 +193,7 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 - [BestBlogs](https://github.com/ginobefun/BestBlogs) - 汇集顶级编程、AI、产品、科技文章，使用大语言模型摘要评分辅助阅读，基于 Dify Workflow 构建，支持 200+ RSS 订阅源。
 - [Mimir](https://github.com/cctv2206/mimir-opensource) - AI 驱动的信息聚合与分发系统，支持 Twitter 实时监控、RSS 订阅、网页抓取、市场数据等，通过 Telegram / 飞书 / Webhook 分发。
 - [TrendRadar](https://github.com/sansan0/TrendRadar) - 多平台热点聚合 + RSS 订阅 + 关键词筛选的 AI 舆情与趋势监控系统，支持多渠道推送（微信/飞书/钉钉/Telegram/邮件等），支持 MCP 对话接入。
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - 独立的 X (Twitter) 数据 API，用于搜索、粉丝导出、监控和 MCP。
 
 ### AI 新闻聚合
 
@@ -279,7 +280,6 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 ### 宝藏项目
 
 - [HistSumm](https://github.com/Pzoom522/HistSumm) - 明朝版的今日头条，你见过吗？。
-- [preserve-cd](https://github.com/skywind3000/preserve-cd) - 绝版游戏保护计划：把一些经典小游戏刻录永久保存。
 - [wifi-password](https://github.com/rauchg/wifi-password) - 用这个工具可以快速获取你当前连接 WIFI 的密码。
 - [coder2gwy](https://github.com/coder2gwy/coder2gwy) - 一份程序员考公指南冲上热榜，几天时间不到，被标星7.3k。
 - [955.WLB](github.com/formulahendry/955.WLB) - 955 不加班的公司名单，我看了看，加上个人了解，信息还算准确，但大多都是外企。
@@ -305,7 +305,6 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 
 - [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - 国外大神复刻了暗黑破坏神2。
 - [PlantsVsZombies](https://github.com/marblexu/PythonPlantsVsZombies) - 开源的《植物大战僵尸》。
-- [preserve-cd](https://github.com/skywind3000/preserve-cd) - 绝版游戏保护计划：把一些经典小游戏刻录永久保存。
 - [watermelon](https://github.com/tangxiangmin/cocos-big-watermelon) - 前段时间大火的游戏合成大西瓜，有人复现了。
 - [OpenEmu](https://github.com/OpenEmu/OpenEmu) - macOS 平台最优秀的多系统游戏模拟器，支持 GameBoy、NES、SNES、N64、PS1 等数十种经典游戏机，界面精美操作简单，是复古游戏玩家的首选。
 - [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - 经典模拟经营游戏《过山车大亨2》的开源重制版，修复原版 Bug、增加新功能、支持多平台和 MOD 扩展，让经典焕发新生。
