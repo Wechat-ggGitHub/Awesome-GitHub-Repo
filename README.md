@@ -463,6 +463,7 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 - [sqliteviz](www.github.com/lana-k/sqliteviz) - Sqliteviz 是一个轻量级 SQLite 可视化工具。 包含功能如下： 针对 SQLite 数据库运行 SQL 查询并根据结果集创建 Plotly 图表和数据透视表，将 CSV 文件导入 SQLite 数据库并可视化导入的数据，将结果集导出到 CSV 文件，管理查询并针对不同的数据库运行它们等等。
 - [hackingtool](https://github.com/Z4nzu/hackingtool) - 黑客的多合一黑客工具，包括很多黑客攻击的脚本和工具，比如匿名隐藏工具、SQL 注入工具等等。
 - [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - Reactive Resume 是一个免费和开源的简历生成器，旨在简单的创建、更新和共享简历。
+- [State of ATS 2026](https://github.com/Kayvan-Zahiri/state-of-ats-2026) - 调研 738 家大型雇主招聘门户（704 家已核验）的 ATS 使用情况；Workday 占比约 37.9%。配套工具 [ResumeAI](https://withresumeai.com/) 提供免费 ATS 检查。
 - [databasir](https://github.com/vran-dev/databasir) - Databasir 是面向团队的关系型数据库模型文档管理平台，旨在通过自动化的方式解决模型文档管理过程中维护成本高、内容更新不及时以及团队协作复杂等问题。
 - [RenderCV](https://github.com/rendercv/rendercv) - 用 YAML/JSON 数据文件自动生成专业简历的开源工具，支持多种模板样式，可输出 PDF 和 Word 格式，便于版本管理和快速迭代。
 - [CocoIndex](https://github.com/cocoindex-io/cocoindex) - 代码库智能索引和搜索工具，利用 AI 理解代码语义，支持自然语言搜索代码、跨仓库检索和知识图谱生成，提升代码复用效率。
