@@ -193,6 +193,7 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 - [BestBlogs](https://github.com/ginobefun/BestBlogs) - 汇集顶级编程、AI、产品、科技文章，使用大语言模型摘要评分辅助阅读，基于 Dify Workflow 构建，支持 200+ RSS 订阅源。
 - [Mimir](https://github.com/cctv2206/mimir-opensource) - AI 驱动的信息聚合与分发系统，支持 Twitter 实时监控、RSS 订阅、网页抓取、市场数据等，通过 Telegram / 飞书 / Webhook 分发。
 - [TrendRadar](https://github.com/sansan0/TrendRadar) - 多平台热点聚合 + RSS 订阅 + 关键词筛选的 AI 舆情与趋势监控系统，支持多渠道推送（微信/飞书/钉钉/Telegram/邮件等），支持 MCP 对话接入。
+- [opc-radar](https://github.com/WXzhongwang/opc-radar) - 一人公司（OPC）资讯聚合站，收录 82 条政策动向、创业案例与生态工具情报，支持 9 大分类筛选、全文搜索与热度排行。纯静态单文件实现、零外部依赖，数据由 GitHub Actions 每日自动补充。
 
 ### AI 新闻聚合
 
