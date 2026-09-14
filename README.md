@@ -540,6 +540,7 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 - [fresh](https://github.com/sinelaw/fresh) - 自动检测项目依赖更新的命令行工具，支持多种包管理器如 npm、pip、cargo 等，帮助开发者保持项目依赖的最新状态和安全性。
 - [lark-cli](https://github.com/larksuite/cli) - 飞书官方 CLI，2500+ API 封装为 200+ 命令和 24 个 AI Agent Skill。
 - [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools 官方 MCP 服务。
+- [apkgo](https://github.com/KevinGong2013/apkgo) - 一行命令将 APK 发布到华为、小米、OPPO、vivo、荣耀、应用宝、三星、Google Play、蒲公英、fir 等十余个主流应用商店，Go 编写，支持脚本 / Docker / go install 安装，还能作为 AI Agent Skill 一键接入 Claude Code、Cursor 等，并提供 fastlane 插件与云端托管版。
 
 ### 效率工具
 
