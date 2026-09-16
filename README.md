@@ -540,6 +540,7 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 - [fresh](https://github.com/sinelaw/fresh) - 自动检测项目依赖更新的命令行工具，支持多种包管理器如 npm、pip、cargo 等，帮助开发者保持项目依赖的最新状态和安全性。
 - [lark-cli](https://github.com/larksuite/cli) - 飞书官方 CLI，2500+ API 封装为 200+ 命令和 24 个 AI Agent Skill。
 - [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools 官方 MCP 服务。
+- [gatecheck](https://github.com/simin-yuan/self-auditing-agent/tree/main/gatecheck) - 用变异测试检验你自己的质量门禁：自动把输入改坏成上百种，逐个去撞你的校验器，如实报告它漏过了哪些。零依赖（只用 Python 标准库），可直接进 CI。它本身就是拿自己去撞作者的门禁时逼出来的——175 个变异漏过 78 个，其中 4 类是真缺陷。
 
 ### 效率工具
 
