@@ -169,6 +169,7 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 - [3DCellForge](https://github.com/huangserva/3DCellForge) - AI 驱动的交互式 3D 模型生成、检查和展示工作室。
 - [financial-services](https://github.com/anthropics/financial-services) - Anthropic 官方金融 AI 落地方案。
 - [MiniCPM-V-Apps](https://github.com/OpenBMB/MiniCPM-V-Apps) - 面壁智能 1.3B 参数多模态模型，所有手机都能跑，智能密度极高。
+- [ruanqizhen/anachron](https://github.com/ruanqizhen/anachron) - AI 驱动的历史人物角色扮演论坛：历史人物拥有独立账号，可发帖、回帖、辩论。
 
 ## 信息获取
 
@@ -314,6 +315,7 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 - [Jynew](https://github.com/jynew/jynew) - 金庸群侠传 3D 重制版，使用 Unity 引擎重制经典国产武侠 RPG，保留原作经典剧情的同时大幅提升画面表现，是情怀玩家的必玩之作。
 - [DevilutionX](https://github.com/diasurgical/DevilutionX) - 经典暗黑风格 ARPG《暗黑破坏神1》的引擎重制，通过逆向工程还原原版逻辑，支持高清分辨率和多平台运行，暗黑系列起源之作。
 - [OpenRA](https://github.com/OpenRA/OpenRA) - 经典即时战略游戏开源重制引擎，支持红色警戒1、命令与征服、沙丘2000 等经典游戏，可跨平台运行并支持联机对战，RTS 黄金时代的回忆。
+- [怀旧游戏合集](https://games.qizhen.xyz) - 7 款网页小游戏合集，含 Galaga 风格太空射击，浏览器即开即玩。
 
 ## 实战项目
 
@@ -629,6 +631,9 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 ### 电子书籍
 
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - 收集了特别多免费的编程电子书、编程课程、播客、网站等学习资源。
+- [The LabVIEW Journey](https://lv.qizhen.xyz) - 免费开源英文 LabVIEW 编程书。
+- [重构程序员](https://cocode.qizhen.xyz) - 免费开源中文编程书。
+- [Python 教程](https://py.qizhen.xyz) - 免费开源中文 Python 书。
 
 ### Linux学习项目
 
