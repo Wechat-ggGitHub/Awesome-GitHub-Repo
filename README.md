@@ -489,6 +489,8 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 - [MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) - 高级 DNS 隧道 VPN，抗审查利器。
 - [a-stock-data](https://github.com/simonlin1212/a-stock-data) - A 股全栈数据工具包，6 层架构 15 个端点 7 个数据源。
 
+- [Glim](https://github.com/NeoPanic/Glim) - MIT 开源的 macOS 文件查看器，在同一工作区预览 Markdown、代码、PDF、Office 文档和结构化数据，支持普通 UTF-8 文本的基础编辑。
+
 ### Docker工具
 
 - [watchtower](https://github.com/v2tec/watchtower) - watchtower：自动更新 Docker 容器。
