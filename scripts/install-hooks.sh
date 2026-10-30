@@ -22,3 +22,8 @@ chmod +x "$gitdir/leak-scan.sh" "$gitdir/hooks/pre-push"
 
 echo "installed: $gitdir/hooks/pre-push"
 echo "scanner:   $gitdir/leak-scan.sh"
+if [ -z "$(git config --get leakguard.filterauthor 2>/dev/null || true)" ]; then
+    echo "hint: a clone of a fork that also carries upstream commits needs the author"
+    echo "      filter, or upstream test fixtures will block your own pushes:"
+    echo "        git config leakguard.filterAuthor you@example.com"
+fi

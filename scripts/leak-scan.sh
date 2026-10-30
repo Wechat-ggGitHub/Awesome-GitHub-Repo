@@ -25,8 +25,8 @@
 set -u
 
 PATTERN=${PATTERN:-'(^|[^A-Za-z0-9_])[A-Za-z]:[\\/]|/c/Users/|/mnt/c/Users/|AB大任务|AppData|shiqing[_-]state|ghp_[A-Za-z0-9]{6,}|gho_[A-Za-z0-9]{6,}|ghs_[A-Za-z0-9]{6,}|ghu_[A-Za-z0-9]{6,}|github_pat_[A-Za-z0-9_]{6,}|glpat-[A-Za-z0-9_-]{10,}|x-access-token|sk-[A-Za-z0-9]{20,}|AKIA[0-9A-Z]{16}|xox[baprs]-[A-Za-z0-9-]{10,}|-----BEGIN [A-Z ]*PRIVATE KEY-----'}  # leak-guard:allow — this line IS the pattern list
-WHITELIST=${WHITELIST:-}
-FILTER_AUTHOR=${FILTER_AUTHOR:-}
+WHITELIST=${WHITELIST:-$(git config --get leakguard.whitelist 2>/dev/null || true)}
+FILTER_AUTHOR=${FILTER_AUTHOR:-$(git config --get leakguard.filterauthor 2>/dev/null || true)}
 
 # Added lines of a diff, as `path:line: content`, whitelisted paths dropped.
 scan_patch() {
