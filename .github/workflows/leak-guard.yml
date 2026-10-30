@@ -1,0 +1,54 @@
+name: leak-guard
+
+# Server-side backstop for the pre-push hook: the hook only exists in a clone that
+# had scripts/install-hooks.sh run in it, so a fresh clone publishes unchecked.
+# This runs the same scanner (scripts/leak-scan.sh) on every push and PR.
+#
+# Per-repo settings are baked into the env block below:
+#   WHITELIST      path prefixes whose added lines are never judged
+#   FILTER_AUTHOR  judge only commits with this author email (set on forks that
+#                  also carry upstream commits)
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  scan:
+    name: added lines for local paths and credentials
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Scan added lines
+        env:
+          BASE_SHA: ${{ github.event.before }}
+          HEAD_SHA: ${{ github.sha }}
+          PR_BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          WHITELIST: ''
+          FILTER_AUTHOR: 'yleven120@gmail.com'
+        run: |
+          set -eu
+          zero=0000000000000000000000000000000000000000
+          if [ -n "${PR_BASE_SHA:-}" ] && [ "$PR_BASE_SHA" != "$zero" ]; then
+            range="$PR_BASE_SHA...$HEAD_SHA"
+          elif [ -n "${BASE_SHA:-}" ] && [ "$BASE_SHA" != "$zero" ]; then
+            range="$BASE_SHA..$HEAD_SHA"
+          else
+            range=""
+          fi
+
+          if [ -n "$range" ]; then
+            echo "range: $range"
+            exec sh scripts/leak-scan.sh range "$range"
+          fi
+
+          echo "new branch or first push: judging the commits we authored"
+          shas=$(git rev-list --no-merges -n 200 "$HEAD_SHA")
+          # shellcheck disable=SC2086
+          exec sh scripts/leak-scan.sh commits $shas

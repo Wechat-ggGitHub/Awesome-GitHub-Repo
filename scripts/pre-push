@@ -1,0 +1,16 @@
+#!/bin/sh
+# pre-push: leak guard.
+#
+# The scanner itself lives in .git/leak-scan.sh, copied there by
+# scripts/install-hooks.sh from scripts/leak-scan.sh. One source of truth: the
+# hook and the CI job (.github/workflows/leak-guard.yml) run the same script.
+#
+# Re-run scripts/install-hooks.sh after changing scripts/leak-scan.sh.
+
+gitdir=$(git rev-parse --git-dir 2>/dev/null) || exit 1
+scanner="$gitdir/leak-scan.sh"
+if [ ! -f "$scanner" ]; then
+    echo "PRE-PUSH BLOCKED  $scanner missing — run scripts/install-hooks.sh in this clone" >&2
+    exit 1
+fi
+exec sh "$scanner" hook
