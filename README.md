@@ -126,6 +126,7 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 - [claude-howto](https://github.com/luongnv89/claude-howto) - Claude Code 快速上手教程。
 - [andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - Karpathy 风格 AI 编程规范。
 - [agentmemory](https://github.com/rohitg00/agentmemory) - AI 编码 Agent 的持久化记忆方案，基于真实 benchmark。
+- [deja-vu](https://github.com/vshulcz/deja-vu) - 跨 43 个 AI 编程 Agent（Claude Code、Codex、Cursor、Gemini CLI、OpenCode 等）的本地会话记忆与 `/compact` 上下文恢复工具，基于单 Go 二进制与纯词法 BM25 检索（LongMemEval-S 97.2% R@5，零向量/零 API Key）。
 
 ### AI 工具
 
