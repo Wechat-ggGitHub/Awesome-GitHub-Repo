@@ -133,6 +133,7 @@ Awesome GitHub Repo 会收集整理 GitHub 上高质量、有趣的开源项目�
 - [CodexBar](https://github.com/steipete/CodexBar) - macOS 菜单栏小工具，监控 OpenAI Codex、Claude Code、Gemini、Copilot 等 AI 服务的使用量，随时查看配额剩余和重置时间。
 - [claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - 开源的 Claude Code 镜像服务，解决地区限制问题，支持自建服务直连 Anthropic API，数据安全可控。
 - [Vibe Kanban](https://github.com/BloopAI/vibe-kanban) - AI 驱动的看板管理工具，结合自然语言处理实现智能任务分配、优先级排序和进度追踪，提升团队协作效率。
+- [Alook](https://github.com/alookai/alook) - 开源、本地优先的群聊，人和本地编程代理（Claude Code、Codex、Cursor）在同一个房间里协作。官网：https://alook.ai
 - [Claude Code Templates](https://github.com/davila7/claude-code-templates) - Claude Code 使用模板和最佳实践集合，包含各类场景的 Prompt 模板、工作流配置和示例代码。
 - [OpenChatBI](https://github.com/zhongyu09/openchatbi) - 基于大语言模型的智能数据分析 Agent，用自然语言直接查询、分析和生成报告，集成 LangGraph 和 LangChain 实现 Text2SQL 和数据分析自动化。
 - [Chatterbox](https://github.com/resemble-ai/chatterbox) - 高质量开源 TTS 语音合成工具，支持多语言、多说话人，提供情感控制和语速调节功能，适合 AI 语音应用开发。
